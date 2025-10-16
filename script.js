@@ -9,7 +9,7 @@ const images = [
     "img5.jpg",
     "img6.jpg",
     "img7.jpg",
-    "img8.jpg"
+    "img8.jpg",
 ];
 
 let cardArray = [...images, ...images];
@@ -27,11 +27,6 @@ function createBoard() {
     shuffle(cardArray).forEach(img => {
         const card = document.createElement("div");
         card.classList.add("card");
-
-        const src = `images/${img}`;
-        console.log("Creating card, img:", img, " -> src:", src);
-
-
         card.innerHTML = `
        <div class="card-inner">
         <div class="card-front">
