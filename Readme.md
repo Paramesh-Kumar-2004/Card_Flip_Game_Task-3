@@ -40,5 +40,4 @@ When you start the game:
 
 ## 🚀 Live Demos <br/> 🌐 Deployment URLs
 
-- **Netlify:** [https://landing-page-2-vp.netlify.app/](https://landing-page-2-vp.netlify.app/)
-- **GitHub Pages:** [https://paramesh-kumar-2004.github.io/Landing_Page_Task-2/](https://paramesh-kumar-2004.github.io/Landing_Page_Task-2/)
+- **GitHub Pages:** [https://paramesh-kumar-2004.github.io/Card_Flip_Game_Task-3//](https://paramesh-kumar-2004.github.io/Card_Flip_Game_Task-3/)
