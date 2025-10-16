@@ -35,6 +35,11 @@ h1 {
     background: #0056b3;
 }
 
+.content-div {
+    background-color: gray;
+    min-height:90vh;
+}
+
 .game-board {
     display: grid;
     grid-template-columns: repeat(4, 100px);
